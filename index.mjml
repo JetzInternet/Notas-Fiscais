@@ -3,7 +3,7 @@
 
    <mj-section background-color="#ff8c00" background-size="cover" background-repeat="no-repeat">
     <mj-column>
-    <mj-image src="imagens/nota.png" width="700px" />
+    <mj-image src="https://jetzinternet.github.io/Notas-Fiscais/imagens/nota.png" width="700px" />
     </mj-column>
     </mj-section>
 
@@ -66,15 +66,11 @@ estamos à disposição para ajudar.</br>
       <br><b>Baixe o App Jetz</br>
       e facilite o seu</br>
       dia a dia.</br>
-    </mj-text >
+    </mj-text>
       <mj-image src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/aplicativo.png" width="300px"/>
-  <mj-button font-family="Arial" background-color="#ff8c00" href="https://apps.apple.com/br/app/jetz-internet-mobile/id6450320022"  border-radius="20px">
-          Apple Store
-         </mj-button>
-         <mj-button font-family="Arial" background-color="#ff8c00" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet" border-radius="20px">
-          Play Store
-         </mj-button>
-    </mj-social>
-    </mj-column>
-  </mj-body>
-</mjml>
+      <mj-social>
+        <mj-social-element icon-size="150px" src="imagens/apple.png" href="https://apps.apple.com/br/app/jetz-internet-mobile/id6450320022">
+        </mj-social-element>
+        <mj-social-element icon-size="150px" src="imagens/play.png" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet">
+        </mj-social-element>
+      </mj-social>
