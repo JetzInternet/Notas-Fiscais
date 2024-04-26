@@ -69,9 +69,9 @@ estamos à disposição para ajudar.</br>
     </mj-text>
       <mj-image src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/aplicativo.png" width="300px"/>
       <mj-social>
-        <mj-social-element icon-size="150px" src="imagens/applestore.png" href="https://apps.apple.com/br/app/jetz-internet-mobile/id6450320022">
+        <mj-social-element icon-size="150px" src="https://jetzinternet.github.io/Notas-Fiscais/imagens/applestore.png" href="https://apps.apple.com/br/app/jetz-internet-mobile/id6450320022">
         </mj-social-element>
-        <mj-social-element icon-size="150px" src="imagens/playstore.png" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet">
+        <mj-social-element icon-size="150px" src="https://jetzinternet.github.io/Notas-Fiscais/imagens/playstore.png" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet">
         </mj-social-element>
       </mj-social>
       </mj-column>      
