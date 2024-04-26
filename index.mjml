@@ -1,0 +1,80 @@
+<mjml>
+  <mj-body>
+
+   <mj-section background-color="#ff8c00" background-size="cover" background-repeat="no-repeat">
+    <mj-column>
+    <mj-image src="imagens/nota.png" width="700px" />
+    </mj-column>
+    </mj-section>
+
+    <mj-section background-url="imagens/rodape.png" background-size="cover" background-repeat="no-repeat">
+    <mj-column width="600px">
+    <mj-text font-family="Calibri" font-size="20px" align="justify">
+
+<br>Olá <b>[[nome_completo_cliente]]</b>,</br>
+a sua Nota Fiscal da Jetz Internet já está disponivel.</br>
+
+<br>Além de manter a sua conexão com a Internet, essa nota fiscal</br>
+também desempenha um papel importante na construção de </br>
+escolas, hospitais, creches e outros serviços essenciais para a</br>
+comunidade. <b>Com o seu apoio, estamos contribuindo para o bem</br>
+de todos!</b></br>
+
+
+
+<br>Caso deseje, você pode acessar a central do assinante para fazer o
+download desta nota fiscal e de outras que tenham sido emitidas</br>
+em seu nome.</br> </mj-text>
+<mj-button font-family="Arial" background-color="#ff8c00" href="https://central.jetzinternet.hubsoft.com.br/"  border-radius="30px">
+          Central do Assinante
+         </mj-button>
+
+<mj-text font-family="Calibri" font-size="20px" align="justify">
+<br>Agradecemos por ser um cliente valioso!</br>
+Se tiver alguma dúvida ou precisar de assistência,</br>
+estamos à disposição para ajudar.</br>
+<br>Até mais,</br>
+    </mj-text>
+
+    <mj-text font-style="italic"
+                   font-family="Calibri"
+                   font-size="20px"
+                   color="#ff8c00"><b>Equipe Jetz Internet<b></mj-text>
+    </mj-column>
+    </mj-section>
+
+    <mj-section background-url="imagens/roda.png" background-size="cover" background-repeat="no-repeat">
+    <mj-column width="600px">
+    <mj-text font-size="15px" align="center">
+      <b>Siga-nos nas redes sociais</b>
+    </mj-text>
+    <mj-social>
+      <mj-social-element icon-size="35px" src="https://jetzinternet.github.io/Jetz-Aniversario/imagens/facebook.png" href="https://www.facebook.com/internetjetz">
+      </mj-social-element>
+      <mj-social-element icon-size="35px" src="https://jetzinternet.github.io/Jetz-Aniversario/imagens/instagram.png" href="https://www.instagram.com/internetjetz/">
+      </mj-social-element>
+      <mj-social-element icon-size="35px" src="https://jetzinternet.github.io/Jetz-Aniversario/imagens/tiktok.png" href="https://www.tiktok.com/@jetzinternet?_t=8levffs41jx&_r=1">
+      </mj-social-element>
+      <mj-social-element icon-size="35px" src="https://jetzinternet.github.io/Jetz-Aniversario/imagens/wpp.png" href="https://api.whatsapp.com/send/?phone=5591981224040&text&type=phone_number&app_absent=0">
+      </mj-social-element>
+    </mj-social>
+    
+    <mj-text font-style="Calibri"
+                   font-family="Calibri"
+                   font-size="30px"
+                   color="#ff8c00">
+      <br><b>Baixe o App Jetz</br>
+      e facilite o seu</br>
+      dia a dia.</br>
+    </mj-text >
+      <mj-image src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/aplicativo.png" width="300px"/>
+  <mj-button font-family="Arial" background-color="#ff8c00" href="https://apps.apple.com/br/app/jetz-internet-mobile/id6450320022"  border-radius="20px">
+          Apple Store
+         </mj-button>
+         <mj-button font-family="Arial" background-color="#ff8c00" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet" border-radius="20px">
+          Play Store
+         </mj-button>
+    </mj-social>
+    </mj-column>
+  </mj-body>
+</mjml>
