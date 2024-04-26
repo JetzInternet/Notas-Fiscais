@@ -1,36 +1,41 @@
 <mjml>
   <mj-body>
+
    <mj-section background-color="#ff8c00" background-size="cover" background-repeat="no-repeat">
     <mj-column>
-    <mj-image src="imagens/Nori.png" width="600px" />
+    <mj-image src="https://jetzinternet.github.io/Notas-Fiscais/imagens/nota.png" width="700px" />
     </mj-column>
     </mj-section>
 
     <mj-section background-url="imagens/rodape.png" background-size="cover" background-repeat="no-repeat">
     <mj-column width="600px">
-    <mj-text font-family="Calibri"   font-size="20px" >
+    <mj-text font-family="Calibri" font-size="20px" align="justify">
+
 <br>Olá <b>[[nome_completo_cliente]]</b>,</br>
-    sua Conta Digital e Nota Fiscal já estão disponiveis.</br>
+a sua Nota Fiscal da Jetz Internet já está disponivel.</br>
 
-<br>Caso já tenha realizado o pagamento, por favor, desconsidere</br>
-este aviso.</br>
+<br>Além de manter a sua conexão com a Internet, essa nota fiscal</br>
+também desempenha um papel importante na construção de </br>
+escolas, hospitais, creches e outros serviços essenciais para a</br>
+comunidade. <b>Com o seu apoio, estamos contribuindo para o bem</br>
+de todos!</b></br>
 
-<br>Você pode efetuar o pagamento da fatura em qualquer</br>
-correspondente bancário, mesmo após a data de vencimento!</br>
 
-<br>Para facilitar o pagamento, utilize o código de barras abaixo:</br>
-<b>Código de Barras: [[linha_digitavel]]</b></br>
 
-<br>Para visualizar a fatura em formato PDF, basta <b>clicar no link</b></br>
-<b>abaixo: </b>[[link_fatura]]</br>
+<br>Caso deseje, você pode acessar a central do assinante para fazer o
+download desta nota fiscal e de outras que tenham sido emitidas</br>
+em seu nome.</br> </mj-text>
+<mj-button font-family="Arial" background-color="#ff8c00" href="https://central.jetzinternet.hubsoft.com.br/"  border-radius="30px">
+          Central do Assinante
+         </mj-button>
 
-<br>Caso já tenha realizado o pagamento, por favor, desconsidere</br>
-este aviso.</br>
-
-<br>Fique à vontade para entrar em contato conosco se tiver alguma</br>
-dúvida ou precisar de assistência. Estamos aqui para ajudar.</br>
+<mj-text font-family="Calibri" font-size="20px" align="justify">
+<br>Agradecemos por ser um cliente valioso!</br>
+Se tiver alguma dúvida ou precisar de assistência,</br>
+estamos à disposição para ajudar.</br>
 <br>Até mais,</br>
     </mj-text>
+
     <mj-text font-style="italic"
                    font-family="Calibri"
                    font-size="20px"
@@ -61,14 +66,14 @@ dúvida ou precisar de assistência. Estamos aqui para ajudar.</br>
       <br><b>Baixe o App Jetz</br>
       e facilite o seu</br>
       dia a dia.</br>
-    </mj-text >
-      <mj-image src="imagens/aplicativo.png" width="300px"/>
-    <mj-social>
+    </mj-text>
+      <mj-image src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/aplicativo.png" width="300px"/>
+      <mj-social>
         <mj-social-element icon-size="150px" src="imagens/applestore.png" href="https://apps.apple.com/br/app/jetz-internet-mobile/id6450320022">
         </mj-social-element>
         <mj-social-element icon-size="150px" src="imagens/playstore.png" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet">
         </mj-social-element>
       </mj-social>
-      </mj-column>
-  </mj-body>
-</mjml>
+      </mj-column>      
+      </mj-body>
+      </mjml>
