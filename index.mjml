@@ -3,7 +3,7 @@
 
    <mj-section background-color="#ff8c00" background-size="cover" background-repeat="no-repeat">
     <mj-column>
-    <mj-image src="imagens/nori.png" width="700px" />
+    <mj-image src="https://jetzinternet.github.io/Notas-Fiscais/imagens/nori.png" width="700px" />
     </mj-column>
     </mj-section>
 
@@ -42,12 +42,25 @@ estamos à disposição para ajudar.</br>
                    color="#ff8c00"><b>Equipe Jetz Internet<b></mj-text>
     </mj-column>
     </mj-section>
-
-    <mj-section background-color="white">
+ 
+ <mj-section background-color="white">
      <mj-raw>
         <!-- right paragraph -->
       </mj-raw>
       <mj-column>
+      <mj-text font-size="15px" align="left">
+      <b>Siga-nos nas redes sociais</b>
+    </mj-text>
+    <mj-social align="left" mode="horizontal">
+      <mj-social-element icon-size="35px" src="https://jetzinternet.github.io/Jetz-Aniversario/imagens/facebook.png" href="https://www.facebook.com/internetjetz">
+      </mj-social-element>
+      <mj-social-element icon-size="35px" src="https://jetzinternet.github.io/Jetz-Aniversario/imagens/instagram.png" href="https://www.instagram.com/internetjetz/">
+      </mj-social-element>
+      <mj-social-element icon-size="35px" src="https://jetzinternet.github.io/Jetz-Aniversario/imagens/tiktok.png" href="https://www.tiktok.com/@jetzinternet?_t=8levffs41jx&_r=1">
+      </mj-social-element>
+      <mj-social-element icon-size="35px" src="https://jetzinternet.github.io/Jetz-Aniversario/imagens/wpp.png" href="https://api.whatsapp.com/send/?phone=5591981224040&text&type=phone_number&app_absent=0">
+      </mj-social-element>
+    </mj-social>   
        <mj-text font-style="Calibri"
                    font-family="Calibri"
                    font-size="30px"
@@ -57,7 +70,7 @@ estamos à disposição para ajudar.</br>
       dia a dia.</br>
       </mj-text >
 
-         <mj-social>
+         <mj-social align="left" mode="horizontal">
         <mj-social-element icon-size="100px" font-size="15px" src="https://jetzinternet.github.io/Notas-Fiscais/imagens/applestore.png" href="https://apps.apple.com/br/app/jetz-internet-mobile/id6450320022">
         </mj-social-element>
         <mj-social-element icon-size="100px" src="https://jetzinternet.github.io/Notas-Fiscais/imagens/playstore.png" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet">
@@ -69,7 +82,7 @@ estamos à disposição para ajudar.</br>
         <!-- Left image -->
       </mj-raw>
       <mj-column width="300px">
-        <mj-image src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/aplicativo.png" width="300px"></mj-image>
+        <mj-image src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/aplicativo.png" width="300px" height="300px" padding="15px" > </mj-image>
       </mj-column>
     </mj-section>
 
