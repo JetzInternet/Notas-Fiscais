@@ -7,7 +7,7 @@
     </mj-column>
     </mj-section>
 
-    <mj-section background-url="imagens/rodape.png" background-size="cover" background-repeat="no-repeat">
+    <mj-section background-url="https://jetzinternet.github.io/Banco-de-imagens/imagens/rodape.png" background-size="cover" background-repeat="no-repeat">
     <mj-column width="600px">
     <mj-text font-family="Calibri" font-size="20px" align="justify">
 
@@ -43,11 +43,11 @@ estamos à disposição para ajudar.</br>
     </mj-column>
     </mj-section>
  
- <mj-section background-color="white">
+ <mj-section background-url="https://jetzinternet.github.io/Banco-de-imagens/imagens/back.png" background-size="cover"  background-repeat="no-repeat">
      <mj-raw>
         <!-- right paragraph -->
       </mj-raw>
-      <mj-column>
+      <mj-column width="600px">
       <mj-text font-size="15px" align="left">
       <b>Siga-nos nas redes sociais</b>
     </mj-text>
@@ -71,9 +71,9 @@ estamos à disposição para ajudar.</br>
       </mj-text >
 
          <mj-social align="left" mode="horizontal">
-        <mj-social-element icon-size="100px" font-size="15px" src="https://jetzinternet.github.io/Notas-Fiscais/imagens/applestore.png" href="https://apps.apple.com/br/app/jetz-internet-mobile/id6450320022">
+        <mj-social-element icon-size="120px" font-size="15px" src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/apple.png">
         </mj-social-element>
-        <mj-social-element icon-size="100px" src="https://jetzinternet.github.io/Notas-Fiscais/imagens/playstore.png" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet">
+        <mj-social-element icon-size="120px" src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/google.png" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet">
         </mj-social-element>
       </mj-social>
       </mj-column>
@@ -81,9 +81,6 @@ estamos à disposição para ajudar.</br>
        <mj-raw>
         <!-- Left image -->
       </mj-raw>
-      <mj-column width="300px">
-        <mj-image src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/aplicativo.png" width="300px" height="300px" padding="15px" > </mj-image>
-      </mj-column>
     </mj-section>
 
     <mj-section background-color="#ff8c00">
