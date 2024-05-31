@@ -1,13 +1,13 @@
 <mjml>
   <mj-body>
 
-   <mj-section background-color="#ff8c00" background-size="cover" background-repeat="no-repeat">
+   <mj-section background-color="#FF8500" background-size="cover" background-repeat="no-repeat">
     <mj-column>
-    <mj-image src="https://jetzinternet.github.io/Notas-Fiscais/imagens/nori.png" width="700px" />
+    <mj-image src="https://jetzinternet.github.io/Banco-de-imagens/imagens/nota.png" width="700px" />
     </mj-column>
     </mj-section>
 
-    <mj-section background-url="https://jetzinternet.github.io/Banco-de-imagens/imagens/rodape.png" background-size="cover" background-repeat="no-repeat">
+    <mj-section background-color="white">
     <mj-column width="600px">
     <mj-text font-family="Calibri" font-size="20px" align="justify">
 
@@ -21,10 +21,10 @@ comunidade. <b>Com o seu apoio, estamos contribuindo para o bem</br>
 de todos!</b></br>
 
 
-
 <br>Caso deseje, você pode acessar a central do assinante para fazer o
 download desta nota fiscal e de outras que tenham sido emitidas</br>
 em seu nome.</br> </mj-text>
+
 <mj-button font-family="Calibri" background-color="#ff8c00" font-size="20px" href="https://central.jetzinternet.hubsoft.com.br/"  border-radius="30px">
           Central do Assinante
          </mj-button>
@@ -43,12 +43,9 @@ estamos à disposição para ajudar.</br>
     </mj-column>
     </mj-section>
  
- <mj-section background-url="https://jetzinternet.github.io/Banco-de-imagens/imagens/back.png" background-size="cover"  background-repeat="no-repeat">
-     <mj-raw>
-        <!-- right paragraph -->
-      </mj-raw>
-      <mj-column width="600px">
-      <mj-text font-size="15px" align="left">
+  <mj-section background-color="white">
+    <mj-column width="600px">
+           <mj-text font-size="15px" align="left">
       <b>Siga-nos nas redes sociais</b>
     </mj-text>
     <mj-social align="left" mode="horizontal">
@@ -60,28 +57,32 @@ estamos à disposição para ajudar.</br>
       </mj-social-element>
       <mj-social-element icon-size="35px" src="https://jetzinternet.github.io/Jetz-Aniversario/imagens/wpp.png" href="https://api.whatsapp.com/send/?phone=5591981224040&text&type=phone_number&app_absent=0">
       </mj-social-element>
-    </mj-social>   
+    </mj-social>
+
+    </mj-column>
+      
+    </mj-section>
+    
+    <mj-hero mode="fixed-height" height="250px" background-width="600px" background-height="400px" background-url="https://jetzinternet.github.io/Banco-de-imagens/imagens/back.png" background-color="white" >
        <mj-text font-style="Calibri"
                    font-family="Calibri"
-                   font-size="30px"
+                   font-size="25px"
                    color="#ff8c00">
+                   
       <br><b>Baixe o App Jetz</br>
       e facilite o seu</br>
       dia a dia.</br>
       </mj-text >
 
-         <mj-social align="left" mode="horizontal">
-        <mj-social-element icon-size="120px" font-size="15px" src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/apple.png">
+         <mj-social align="left" mode="horizontal" padding-bottom="100px">
+        <mj-social-element icon-size="40px" src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/applestore.png" href="https://apps.apple.com/br/app/jetz-internet-mobile/id6450320022">
         </mj-social-element>
-        <mj-social-element icon-size="120px" src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/google.png" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet">
+        <mj-social-element icon-size="40px" src="https://jetzinternet.github.io/Jetz-Conta-Digital/imagens/playstore.png" href="https://play.google.com/store/apps/details?id=com.hubsoft_client_app.jetzinternet">
         </mj-social-element>
       </mj-social>
       </mj-column>
-
-       <mj-raw>
-        <!-- Left image -->
-      </mj-raw>
     </mj-section>
+</mj-hero>
 
     <mj-section background-color="#ff8c00">
     <mj-column width="600px">
